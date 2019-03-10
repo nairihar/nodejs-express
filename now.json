@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "nodejs-express",
+  "builds": [
+    {
+      "src": "**/*.js",
+      "use": "@now/node"
+    }
+  ]
+}
